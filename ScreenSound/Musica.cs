@@ -1,9 +1,4 @@
-﻿// O que uma musica precisa? Precisa de um nome, artista, duração da musica e se esta disponivel.
-// atalho para renomear um item: ctrl + r, ctrl + r
-// atalho para criar uma propriedade: prop + TAB, cria um modelo de propriedade
-// atalho para subir/descer linha: alt + setas.
-
-class Musica
+﻿class Musica
 {
     public Musica(Banda artista, string nome)
     {
